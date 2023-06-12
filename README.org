@@ -1,0 +1,10 @@
+* eazy-process
+
+Yet Another Portable Library for Process Handling / Subshell Invokation
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/guicho271828/eazy-process.git   |
+| commit  | 1a7013b  |
+| systems | eazy-process |
+|---------+-------------------------------------------|
+
